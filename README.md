@@ -2,7 +2,7 @@
 
 Pequeño programa en C que muestra información básica del sistema.
 
-## 📦 Archivos
+## Archivos
 
 - `main.c` → punto de entrada del programa  
 - `sysinfo.c` → lógica principal del sistema  
@@ -12,7 +12,7 @@ Pequeño programa en C que muestra información básica del sistema.
 
 ---
 
-## ⚙️ Compilación
+## Compilación
 
 Para compilar el proyecto:
 
@@ -22,7 +22,7 @@ make
 Esto genera el ejecutable:
 
 ./program
-🧹 Limpieza
+ Limpieza
 
 Eliminar archivos objeto:
 
@@ -35,12 +35,13 @@ make fclean
 Recompilar desde cero:
 
 make re
-🚀 Ejecución
+Ejecución
 
 Después de compilar:
 
 ./program
-📁 Estructura del proyecto
+
+Estructura del proyecto
 .
 ├── Makefile
 ├── main.c
@@ -48,7 +49,8 @@ Después de compilar:
 ├── sysinfo.h
 ├── ansicolors.h
 └── README.md
-🧠 Notas
+
+Notas
 Compilado con gcc
 Flags: -Wall -Wextra -Werror
 Diseñado para Linux
