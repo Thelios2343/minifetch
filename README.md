@@ -39,7 +39,7 @@ Ejecución
 
 Después de compilar:
 
-./program
+./Wired-fetch
 
 Estructura del proyecto
 .
