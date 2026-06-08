@@ -4,7 +4,7 @@ Pequeño programa en C que muestra información básica del sistema.
 
 ## Archivos
 
-- `main.c` → punto de entrada del programa  
+- `main.c` → punto de entrada del programa y manejo de la interfaz de usuario  
 - `sysinfo.c` → lógica principal del sistema  
 - `sysinfo.h` → declaraciones de funciones  
 - `ansicolors.h` → macros para colores en terminal  
