@@ -1,4 +1,4 @@
-NAME = SysInfo
+NAME = Wired-fetch
 
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
